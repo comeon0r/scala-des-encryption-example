@@ -1,2 +1,3 @@
-a simple example of using DES algorithm to encrypt data.
-language: scala.
+A simple example of using DES algorithm to encrypt data.
+
+Language: scala.
