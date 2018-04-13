@@ -14,3 +14,6 @@ refer to:
 1. https://www.cnblogs.com/liunanjava/p/4297854.html
 2. http://hello-nick-xu.iteye.com/blog/2103775
 3. https://segmentfault.com/a/1190000003013402
+
+
+[gist https://gist.github.com/2314628 /]
